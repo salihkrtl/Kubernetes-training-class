@@ -5,9 +5,9 @@
 ##### Merhaba Dünya
 ###### Merhaba Dünya
 
-Temel Markdown Komutları
+# Temel Markdown Komutları
 
-İşte Markdown'un en sık kullanılan komutlarını, açıklamalarını, örnekleri ve kullanım sıklıklarını içeren bir tablo:
+**İşte Markdown'un en sık kullanılan komutlarını, açıklamalarını, örnekleri ve kullanım sıklıklarını içeren bir tablo**
 
 | **Komut**                      | **Açıklama**                                         | **Örnek**                                                | **Kullanım Sıklığı**               |
 |--------------------------------|-----------------------------------------------------|---------------------------------------------------------|------------------------------------|
@@ -25,4 +25,4 @@ Temel Markdown Komutları
 | `| Tablo Başlık 1 | Tablo Başlık 2 |` <br> `| --- | --- |` <br> `| Hücre 1 | Hücre 2 |` | Tablo oluşturur                                     | `| Başlık 1 | Başlık 2 |` <br> `| --- | --- |` <br> `| Veri 1 | Veri 2 |` → <br> Başlık 1 | Başlık 2 <br> --- | --- <br> Veri 1 | Veri 2 | Orta Sık                           |
 | `---` veya `***`               | Yatay çizgi ekler                                    | `---` veya `***` → <br> ---                              | Az Sık                             |
 
-Bu tablo, Markdown'da en sık kullanılan komutları örneklerle açıklamaktadır. "Kullanım Sıklığı" sütunu, bu komutların çeşitli metinlerde ne kadar yaygın olarak kullanıldığını göstermektedir.
+~~Bu tablo, Markdown'da en sık kullanılan komutları örneklerle açıklamaktadır. "Kullanım Sıklığı" sütunu, bu komutların çeşitli metinlerde ne kadar yaygın olarak kullanıldığını göstermektedir.~~
