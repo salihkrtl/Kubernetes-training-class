@@ -43,4 +43,10 @@
 
    ![kubectl get nodes](./images/kubectl-get-nodes.png)
 
-   
+6. **Using Minikube profile list**:
+   You can now use `minikube profile list` to manage your Minikube cluster. For example, check the nodes in your cluster with:
+   ```bash
+   minikube profile list
+   ```
+
+   ![minikube profile list](./images/minikube-profile-list.png)
