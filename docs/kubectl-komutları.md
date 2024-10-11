@@ -1,6 +1,10 @@
+# Kubectl
+
+## Aşağıdaki komutları kullanabiliriz
+
 | **Command**                                  | **Description**                                                   |
 |----------------------------------------------|-------------------------------------------------------------------|
-| `kubectl get pods`                           | List all pods in the current namespace.                          |
+| `kubectl get pods -A`                           | List all pods in the current namespace.                          |
 | `kubectl get services`                       | List all services in the current namespace.                     |
 | `kubectl get deployments`                    | List all deployments in the current namespace.                  |
 | `kubectl describe pod <pod_name>`           | Display detailed information about a specific pod.               |
