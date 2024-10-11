@@ -4,8 +4,8 @@
 
 | **Command**                                  | **Description**                                                   |
 |----------------------------------------------|-------------------------------------------------------------------|
-| `kubectl get pods -A`                           | List all pods in the current namespace.                          |
-| `kubectl get services`                       | List all services in the current namespace.                     |
+| `kubectl get pods -A`                           | List all pods in the current namespace.   ![get pods](./images/kubectl-get-pods.png)                        |
+| `kubectl get services`                       | List all services in the current namespace.  ![get services](./images/kubectl-get-services.png)                   |
 | `kubectl get deployments`                    | List all deployments in the current namespace.                  |
 | `kubectl describe pod <pod_name>`           | Display detailed information about a specific pod.               |
 | `kubectl create -f <file.yaml>`             | Create a resource defined in a YAML or JSON file.               |
