@@ -4,6 +4,7 @@ metadata:
   name: my-pod
   labels:
     app: my-app
+    environment: dev
 spec:
   containers:
   - name: my-container
