@@ -1,11 +1,11 @@
 # Docker version check
 
-docker --version
+**docker --version** çıktısı
 
 ![Docker Version Check](./images/docker-version.png)
 
 ![test ekranı çıktısı](./images/test.png)
 
-docker version
+**docker version** çıktısı
 
 ![Docker Version Check](./images/docker-version-2.png)
